@@ -1,0 +1,14 @@
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\obj\Debug\net9.0\encryption_softwareV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\obj\Debug\net9.0\encryption_softwareV2.AssemblyInfoInputs.cache
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\obj\Debug\net9.0\encryption_softwareV2.AssemblyInfo.cs
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\obj\Debug\net9.0\encryption_softwareV2.csproj.CoreCompileInputs.cache
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\bin\Debug\net9.0\encryption_softwareV2.exe
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\bin\Debug\net9.0\encryption_softwareV2.deps.json
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\bin\Debug\net9.0\encryption_softwareV2.runtimeconfig.json
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\bin\Debug\net9.0\encryption_softwareV2.dll
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\bin\Debug\net9.0\encryption_softwareV2.pdb
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\obj\Debug\net9.0\encryption_softwareV2.dll
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\obj\Debug\net9.0\refint\encryption_softwareV2.dll
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\obj\Debug\net9.0\encryption_softwareV2.pdb
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\obj\Debug\net9.0\encryption_softwareV2.genruntimeconfig.cache
+C:\Users\pehya\Downloads\test\encryption_software\encryption_softwareV2\obj\Debug\net9.0\ref\encryption_softwareV2.dll
