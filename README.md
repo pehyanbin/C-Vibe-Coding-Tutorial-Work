@@ -1,1 +1,1 @@
-# Encryption Software using C#
+# Simple Encryption Software using C#
